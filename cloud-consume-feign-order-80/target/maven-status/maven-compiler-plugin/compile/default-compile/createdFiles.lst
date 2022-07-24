@@ -1,0 +1,4 @@
+com\lilinpo\springcloud\service\PaymentFeignService.class
+com\lilinpo\springcloud\controller\OrderFeignController.class
+com\lilinpo\springcloud\feignOrderMain.class
+com\lilinpo\springcloud\config\FeignConfig.class
