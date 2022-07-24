@@ -1,0 +1,3 @@
+com\lilinpo\springcloud\controller\PaymentController.class
+com\lilinpo\springcloud\PaymentHystrixMain.class
+com\lilinpo\springcloud\service\PaymentService.class
