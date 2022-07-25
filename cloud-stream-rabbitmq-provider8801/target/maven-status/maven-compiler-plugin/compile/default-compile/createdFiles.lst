@@ -1,0 +1,4 @@
+com\lilinpo\springcloud\service\IMessageProvider.class
+com\lilinpo\springcloud\service\Impl\MessageProvider.class
+com\lilinpo\springcloud\StreamMain8801.class
+com\lilinpo\springcloud\controller\SendMessageController.class
